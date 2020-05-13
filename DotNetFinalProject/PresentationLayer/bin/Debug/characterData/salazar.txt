@@ -1,0 +1,64 @@
+Salazar
+Medium Human, Lawful Good
+-------------------------------------------------
+Armor Class: 17/19
+Hit Points: 53
+Speed: 30ft.
+-------------------------------------------------
+STR	DEX	CON	INT	WIS	CHA
+14 (+2)	18 (+4)	15 (+2)	11 (+0)	13 (+1)	9 (-1)
+-------------------------------------------------
+Saving Throws: Str +5, Dex +4, Con +5, Int +0,
+    Wis +1, Cha -1
+Proficiency Bonus: +3
+Proficiencies: Strength, Constitution, Animal
+   Handling, History, Perception, Religion,
+   Survival
+Other Proficiencies: All armor, shields, simple
+   weapons, martial weapons, carpenter's tools,
+   vehicles(land)
+Languages: Common, Elvish
+Senses: passive Perception 13
+-------------------------------------------------
+Extra Attack: Whenever you take the attack action
+on your turn, you can make two attacks instead of
+one, as a part of taking that action.
+
+Second Wind: You have a limited well of stamina 
+that you can draw on to protect yourself from 
+harm. On your turn, you can use a bonus action to 
+regain hit points equal to 1d10 + your fighter 
+level. Once you use this feature, you must finish 
+a short or long rest before you can use it again.
+
+Fighting Style (Archery): You gain a +2 bonus to 
+attack rolls you make with ranged weapons.
+
+Rustic Hospitality: Since you come from the ranks 
+of the common folk, you fit in among them with 
+ease. You can find a place to hide, rest, or 
+recuperate among other commoners, unless you have 
+shown yourself to be a danger to them. They will 
+shield you from the law or anyone else searching 
+for you, though they will not risk their lives 
+for you.
+
+Shield: When shield is equiped AC jumps from 17
+to 19, shield can only be equiped while using a
+one handed weapon
+
+ACTIONS
+-------------------------------------------------
+Rapier: Melee Weapon Attack: +7 to hit, 
+reach 5 ft., one target. Hit: 1d8 + 4 
+piercing damage.
+ 
+LongBow: Melee Weapon Attack: +9 to hit, 
+reach 150ft. or 600 ft. with disadvantage, 
+one target. Hit: 1d8 + 4 piercing damage.
+
++1 LongSword: Melee Weapon Attack: +6 to hit, 
+reach 5 ft., one target. Hit: 1d8 + 3 
+slashing damage.
+
+

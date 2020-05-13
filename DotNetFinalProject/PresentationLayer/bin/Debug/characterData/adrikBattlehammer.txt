@@ -1,0 +1,78 @@
+Adrik Battlehammer
+Medium Hill Dwarf, Nuetral Good
+-------------------------------------------------
+Armor Class: 18
+Hit Points: 53
+Speed: 25ft.
+-------------------------------------------------
+STR	DEX	CON	INT	WIS	CHA
+14 (+2)	8 (-1)	15 (+2)	10 (+0)	18 (+4)	12 (+1)
+-------------------------------------------------
+Saving Throws: Str +2, Dex -1, Con +2, Int +0,
+    Wis +7, Cha +4
+Damage Resistances: poison damage.
+Proficiency Bonus: +3
+Proficiencies: Wisdom, Charisma, Athletics, 
+   Intimidation, Medicine, Religion
+Other Proficiencies: All armor, shields, all 
+   simple weapons, battleaxes, handaxes, light
+   hammers, warhammers, playing cards, mason's
+   tools, vehicles(land)
+Languages: Common, Dwarvish
+Senses: Darkvision(60 ft), passive Perception 14
+Stonecunning: Whenever you make an 
+   Intelligence (History) check related to the 
+   origin of stonework, you are considered 
+   proficient in the History skill and add double 
+   your proficiency bonus to the check, instead 
+   of your normal proficiency bonus
+-------------------------------------------------
+Spellcasting ability: Wisdom is your spellcasting 
+ability for your spells. The saving throw DC to 
+resist a spell you cast is 14. Your attack bonus 
+when you make an attack with a spell is +7. See 
+the rulebook for rules on casting your spells.
+
+Disciple of Life: Your healing spells are 
+particularly effective. Whenever you rstore hit 
+points to a creature with a spell level of 1st
+level or higher, the creature regains additional
+hit points equal to 2 + the spell's level.
+
+Dwarven Resilience: You have advantage on saving
+throws against poison, and you have resistance
+against poison damage.
+
+Dwarven Toughness: Your hit point maximum 
+increases by 1, and it increases by 1 every time
+you gain a level
+
+Mercenary Sergeant: You were a minor officer 
+among the Mintarn mercenaries, a position that 
+still gets you some perks. Even though you're not 
+on active duty, Mintarn soldiers recognize your 
+authority and influence, and they defer to you if 
+they are a lower rank. You can requisition simple 
+equipment and horses for temporary use. You can 
+also gain access to Mintarn mercenary encampments 
+and fortresses.
+
+ACTIONS
+-------------------------------------------------
+Warhammer: Melee Weapon Attack: +5 to hit, 
+reach 5 ft., one target. Hit: 1d8 + 2 
+bludgeoning damage.
+ 
+Handaxe: Melee Weapon Attack: +5 to hit, 
+reach 5 ft., one target. Hit: 1d8 + 2 slashing 
+damage.
+
+Spells: +7 to hit
+
+Cantrips: Light, Sacred Flame, Thaumaturgy
+
+Domain Spells: Bless and Cure Wounds
+
+Spell Slots: level 1: 4, level 2: 3, level 3: 2
+
+

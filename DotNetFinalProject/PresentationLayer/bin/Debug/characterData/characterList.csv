@@ -1,0 +1,11 @@
+Beholder,Large,Abberation,Lawful Evil,Enemy,beholder.txt,beholder.png
+Bugbear,Medium,Humanoid(goblinoid),Chaotic Evil,Enemy,bugbear.txt,bugbear.png
+Grimlock,Medium,Humanoid(grimlock),Nuetral Evil,Enemy,grimlock.txt,grimlock.png
+Orc,Medium,Humanoid(orc),Chaotic Evil,Enemy,orc.txt,orc.png
+Owlbear,Large,Monstrosity,Unaligned,Enemy,owlbear.txt,owlbear.png
+Strige,Tiny,Beast,Unaligned,Enemy,stirge.txt,stirge.png
+Wraith,Medium,Undead,Neutral Evil,Enemy,wraith.txt,wraith.png
+Wyvern,Large,Dragon,Unaligned,Enemy,wyvern.txt,wyvern.png
+Salazar,Medium,Human,Lawful Good,Hero,salazar.txt,salazar.png
+Adrik Battlehammer,Medium,Hill Dwarf,Neutral Good,Hero,adrikBattlehammer.txt,adrikBattlehammer.jpg
+Azer,Medium,Elemental,Lawful Neutral,Enemy,azer.txt,azer.png
